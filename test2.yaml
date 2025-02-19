@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-     [asd](javascript:alert())  **asd**
+     &lt;bar&quot;onclick=&quot;alert(&#39;XSS&#39;)&quot;@foo&gt;;
 
   version: production
 basePath: /JSSResource/
