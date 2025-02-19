@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-     <h1>asd123</h1>
+     [asd](javascript:alert())  **asd**
 
   version: production
 basePath: /JSSResource/
