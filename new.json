@@ -1,0 +1,9 @@
+{
+    "url": "https://cdn.jsdelivr.net/gh/szanya/test@master/new.yaml",
+    "urls": [
+        {
+            "url": "hhttps://cdn.jsdelivr.net/gh/szanya/test@master/new.yaml",
+            "name": "Foo"
+        }
+    ]
+}
